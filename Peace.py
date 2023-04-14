@@ -1,9 +1,9 @@
 from turtle import *
 
 def main():
-    peacecolors = ("black",  "black", "black",
-                   "black", "black",
-                   "black", "black")
+    peacecolors = ("red",  "red", "red",
+                   "red", "red",
+                   "red", "red")
 
     reset()
     Screen()
